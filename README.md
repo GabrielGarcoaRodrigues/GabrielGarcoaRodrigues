@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/GabrielGarcoaRodrigues">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGarcoaRodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielGarcoaRodrigues&show_icons=true&theme=dracula&count_private=true)
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGarcoaRodrigues&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
