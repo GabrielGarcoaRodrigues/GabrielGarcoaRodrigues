@@ -1,5 +1,5 @@
 <h1>👾 Oii! Eu sou o Gabriel 🤖</h1>
-##
+
 <div align="center">
   <a href="https://github.com/GabrielGarcoaRodrigues">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGarcoaRodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
