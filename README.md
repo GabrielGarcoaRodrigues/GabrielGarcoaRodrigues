@@ -1,4 +1,4 @@
-👾 <h1>Oii! Eu sou o Gabriel</h1> 🤖
+<h1>👾 Oii! Eu sou o Gabriel 🤖</h1>
 ##
 <div align="center">
   <a href="https://github.com/GabrielGarcoaRodrigues">
