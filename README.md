@@ -1,5 +1,5 @@
 <h1>👾 Oii! Eu sou o Gabriel 🤖</h1>
-<p>Sou estudante de Engenharia de computação na UTFPR, atualmente no 5º período. Tenho experiência em desenvolvimento Front-End e conhecimento principalmente em Python (certificado pela Alura), JS, Jquery e HTML/CSS.</p><br>
+<p>Sou estudante de análise e desenvolvimento de sistemas na PUC-RS. Tenho experiência em desenvolvimento Front-End e conhecimento principalmente em Python (certificado pela Alura), JS, Jquery e HTML/CSS.</p><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
