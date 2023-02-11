@@ -1,5 +1,5 @@
 <h1>👾 Oii! Eu sou o Gabriel 🤖</h1>
-<p>Sou estudante de análise e desenvolvimento de sistemas na PUC-RS. Atualmente estou estudando a área de dados, como engenharia de dados e data science.</p><br>
+<p>Sou estudante de Análise e Desenvolvimento de Sistemas na PUC-RS.</p><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
