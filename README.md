@@ -1,5 +1,7 @@
 <h1>👾 Oii! Eu sou o Gabriel 🤖</h1>
-<p>Sou estudante de Análise e Desenvolvimento de Sistemas na PUC-RS.</p><br>
+<p>Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas e tenho experiência anterior como desenvolvedor Front-End. Durante o meu estágio, tive a oportunidade de aprimorar minhas habilidades técnicas e desenvolver vários Websites e LPs, o que me proporcionou um aprendizado valioso na área.
+
+Possuo um amplo conhecimento em várias linguagens, com foco em Python, no qual me aprofundei por meio de cursos na plataforma Alura. Também possuo habilidades em JS, Jquery, HTML/CSS, Git e Banco de Dados SQL e PostgreSQL.</p><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
