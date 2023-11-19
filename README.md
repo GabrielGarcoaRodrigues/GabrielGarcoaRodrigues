@@ -1,7 +1,12 @@
 <h1>👾 Oii! Eu sou o Gabriel 🤖</h1>
-<p>Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas e tenho experiência anterior como desenvolvedor Front-End. Durante o meu estágio, tive a oportunidade de aprimorar minhas habilidades técnicas e desenvolver vários Websites e LPs, o que me proporcionou um aprendizado valioso na área.
+<p>Olá, meu nome é Gabriel, sou desenvolvedor com mais de 2 anos de experiência e estudante de Análise e Desenvolvimento de Sistemas na PUCRS.
 
-Possuo um amplo conhecimento em várias linguagens, com foco em Python, no qual me aprofundei por meio de cursos na plataforma Alura. Também possuo habilidades em JS, Jquery, HTML/CSS, Git e Banco de Dados SQL e PostgreSQL.</p><br>
+Atualmente sou estagiário de desenvolvimento web e BI na WEG, onde desenvolvo websites, crio dashboard e indicadores. Utilizo tecnologias como SharePoint, React, Excel, Power BI, Javascript, Jquery, SQL, entre outras.
+
+Durante meus estágios, pude aprimorar tanto minhas habilidades técnicas (hard skills) quanto às habilidades interpessoais (soft skills). Lidar com prazos, demandas de projetos e assumir responsabilidades foram aspectos fundamentais do meu desenvolvimento profissional.
+
+Mantenho-me sempre atualizado com as últimas novidades do mundo tech, explorando vídeos e cursos para conhecer novas linguagens, frameworks e ferramentas. Acredito que essa abordagem proativa contribui significativamente para o meu constante aprimoramento e adaptação às demandas do setor. 
+</p><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
