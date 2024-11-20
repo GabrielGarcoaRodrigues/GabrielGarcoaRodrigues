@@ -1,11 +1,24 @@
 <h1>👾 Oii! Eu sou o Gabriel 🤖</h1>
-<p>Olá, meu nome é Gabriel, sou desenvolvedor com mais de 2 anos de experiência e estudante de Análise e Desenvolvimento de Sistemas na PUCRS.
+<p>Sou estudante de Análise e Desenvolvimento de Sistemas pela PUCRS, com mais de dois anos de experiência profissional em desenvolvimento e análise de dados. Minha trajetória combina competências técnicas avançadas com a entrega de resultados em projetos de impacto.
 
-Atualmente sou estagiário de desenvolvimento python na Orbit Data Science, onde desenvolvo scripts python, APIs, Dashboards e relatórios. Utilizo Python, SQL, Power BI, Excel e Tableau.
+Atualmente, atuo como desenvolvedor na Orbit Data Science, onde desenvolvo soluções inovadoras utilizando Python, APIs e web scraping. Também sou responsável pela criação de dashboards interativos e intuitivos, utilizando ferramentas como Power BI e bibliotecas de visualização de dados, promovendo decisões estratégicas baseadas em dados.
 
-Durante meus estágios, pude aprimorar tanto minhas habilidades técnicas (hard skills) quanto às habilidades interpessoais (soft skills). Lidar com prazos, demandas de projetos e assumir responsabilidades foram aspectos fundamentais do meu desenvolvimento profissional.
-
-Mantenho-me sempre atualizado com as últimas novidades do mundo tech, explorando vídeos e cursos para conhecer novas linguagens, frameworks e ferramentas. Acredito que essa abordagem proativa contribui significativamente para o meu constante aprimoramento e adaptação às demandas do setor. 
+<b>Minhas principais áreas de atuação incluem:</b><br>
+<br>
+<b>Desenvolvimento e Integração:</b> Criação de APIs robustas e soluções de automação de processos.<br>
+<b>Inteligência Artificial:</b> Implementação de tecnologias inteligentes para agregar valor a projetos e aprimorar experiências do usuário.<br>
+<b>Web Scraping:</b> Coleta e organização de dados da web para análises especializadas e aplicações personalizadas.<br>
+<b>Business Intelligence:</b> Desenvolvimento de análises avançadas e dashboards estratégicos que facilitam a tomada de decisão.<br>
+<br>
+<b>Certificações:</b><br>
+<br>
+Power BI<br>
+SQL com PostgreSQL<br>
+Python<br>
+Data Science<br>
+OpenAI com Python<br>
+<br>
+Sempre busco aprimorar minhas habilidades técnicas e explorar novas ferramentas para me manter atualizado com as demandas do setor. Sou motivado por desafios e apaixonado por transformar dados em insights estratégicos.
 </p><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
