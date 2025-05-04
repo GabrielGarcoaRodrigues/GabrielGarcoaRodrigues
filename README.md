@@ -1,24 +1,17 @@
 <h1>👾 Oii! Eu sou o Gabriel 🤖</h1>
-<p>Sou estudante de Análise e Desenvolvimento de Sistemas pela PUCRS, com mais de dois anos de experiência profissional em desenvolvimento e análise de dados. Minha trajetória combina competências técnicas avançadas com a entrega de resultados em projetos de impacto.
+<p>Sou Analista de Dados com formação pela PUCRS e +2 anos de experiência transformando conjuntos de dados complexos em insights acionáveis e soluções de negócios. Especialista em extrair, processar e visualizar dados com expertise técnica para implementar soluções end-to-end, desde a coleta até dashboards estratégicos que impulsionam tomadas de decisão baseadas em evidências.
 
-Atualmente, atuo como desenvolvedor na Orbit Data Science, onde desenvolvo soluções inovadoras utilizando Python, APIs e web scraping. Também sou responsável pela criação de dashboards interativos e intuitivos, utilizando ferramentas como Power BI e bibliotecas de visualização de dados, promovendo decisões estratégicas baseadas em dados.
+#<b>Competências Técnicas</b>
 
-<b>Minhas principais áreas de atuação incluem:</b><br>
-<br>
-<b>Desenvolvimento e Integração:</b> Criação de APIs robustas e soluções de automação de processos.<br>
-<b>Inteligência Artificial:</b> Implementação de tecnologias inteligentes para agregar valor a projetos e aprimorar experiências do usuário.<br>
-<b>Web Scraping:</b> Coleta e organização de dados da web para análises especializadas e aplicações personalizadas.<br>
-<b>Business Intelligence:</b> Desenvolvimento de análises avançadas e dashboards estratégicos que facilitam a tomada de decisão.<br>
-<br>
-<b>Certificações:</b><br>
-<br>
-Power BI<br>
-SQL com PostgreSQL<br>
-Python<br>
-Data Science<br>
-OpenAI com Python<br>
-<br>
-Sempre busco aprimorar minhas habilidades técnicas e explorar novas ferramentas para me manter atualizado com as demandas do setor. Sou motivado por desafios e apaixonado por transformar dados em insights estratégicos.
+Desenvolvimento: Python (Numpy, Pandas, Matplotlib, Seaborn, Streamlit), APIs RESTful, Git/GitHub, Integração de Sistemas, Web Scraping
+
+Business Intelligence: Power BI, Tableau, Qlik, DAX, Excel, Visualização de Dados
+
+Dados: SQL, PostgreSQL, ETL, Modelagem de Dados
+
+IA/Machine Learning: Implementação de LLMs, NLP, Análise Preditiva
+
+Combino habilidades técnicas robustas com visão estratégica de negócios, o que me permite não apenas desenvolver soluções, mas entregar valor mensurável aos projetos. Minha abordagem analítica e criativa me possibilita transformar desafios complexos em oportunidades de inovação.
 </p><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
