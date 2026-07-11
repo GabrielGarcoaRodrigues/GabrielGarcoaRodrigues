@@ -44,8 +44,8 @@ Principais frentes de atuação:
 ## ⚙️ &nbsp;GitHub Analytics
 <div align="center">
   <a href="https://github.com/GabrielGarcoaRodrigues">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielGarcoaRodrigues&show_icons=true&theme=merko"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGarcoaRodrigues&layout=compact&theme=merko"/>
+  <img width="48%" height="180em" src="https://github-stats-extended.vercel.app/api?username=GabrielGarcoaRodrigues&show_icons=true&theme=merko"/>
+  <img width="48%" height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GabrielGarcoaRodrigues&layout=compact&theme=merko"/>
 </div>
 
 <br>
